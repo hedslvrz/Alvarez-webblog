@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Tour - Scroll Map</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&family=Metamorphous&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>BSIT Educational Tour 2026</h1>
+        <p>An 8 day journey through technology and innovation</p>
+        <p>Hedrian Dunn P. Alvarez</p>
+    </header>
+
+    <main>
+        <div class="scroll-outer-container">
+            <div class="scroll-parchment" id="scrollMap">
+                <div class="map-content" id="mapContent">
+                    <!-- Regions and Icons will be injected here -->
+                    <svg class="map-lines" id="mapLines"></svg>
+                </div>
+            </div>
+        </div>
+
+        <div class="panels-container" id="panelsContainer">
+            <div class="info-placeholder" id="mainPlaceholder">
+                <p>Click a destination on the scroll to see details</p>
+            </div>
+            
+            <section class="details-box hidden" id="detailsBox">
+                <h2 id="infoTitle">Destination Name</h2>
+                <h3 id="infoDate">Date</h3>
+                
+                <div class="info-section">
+                    <h4><span class="icon">📜</span> Background</h4>
+                    <p id="infoBackground">Historical background goes here...</p>
+                </div>
+
+                <div class="info-section">
+                    <h4><span class="icon">✨</span> Highlights</h4>
+                    <ul id="infoHighlights">
+                        <!-- Highlights will be injected here -->
+                    </ul>
+                </div>
+
+                <div class="info-section">
+                    <h4><span class="icon">💬</span> Personal Comments</h4>
+                    <p id="infoComments" class="personal-note">Personal thoughts go here...</p>
+                </div>
+            </section>
+
+            <section class="media-box hidden" id="mediaBox">
+                <div class="carousel-container" id="carouselContainer">
+                    <div class="carousel-main" id="carouselMain">
+                        <!-- Main image will be injected here -->
+                    </div>
+                    <div class="carousel-controls">
+                        <button id="prevBtn" class="carousel-btn">&lt; Prev</button>
+                        <span id="carouselCounter">1 / 1</span>
+                        <button id="nextBtn" class="carousel-btn">Next &gt;</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
