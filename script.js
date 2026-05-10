@@ -15,10 +15,10 @@ const destinations = [
         x: 100,
         y: 150,
         photos: [
-            "photos/Manila-arrival/IMG_20260405_061059.jpg",
-            "photos/Manila-arrival/IMG_20260405_060512.jpg",
-            "photos/Manila-arrival/received_3314685682042307.jpeg",
-            "photos/Manila-arrival/IMG_20260405_084811.jpg"
+            "photos/Manila-arrival/IMG_20260405_061059.webp",
+            "photos/Manila-arrival/IMG_20260405_060512.webp",
+            "photos/Manila-arrival/received_3314685682042307.webp",
+            "photos/Manila-arrival/IMG_20260405_084811.webp"
         ]
     },
     {
@@ -37,10 +37,10 @@ const destinations = [
         x: 250,
         y: 100,
         photos: [
-            "photos/Intramuros/IMG_20260405_152456.jpg",
-            "photos/Intramuros/DSC_0809.jpg",
-            "photos/Intramuros/DSC_0817.jpg",
-            "photos/Intramuros/DSC_0818.jpg"
+            "photos/Intramuros/IMG_20260405_152456.webp",
+            "photos/Intramuros/DSC_0809.webp",
+            "photos/Intramuros/DSC_0817.webp",
+            "photos/Intramuros/DSC_0818.webp"
         ]
     },
     {
@@ -59,9 +59,9 @@ const destinations = [
         x: 350,
         y: 120,
         photos: [
-            "photos/Fort-Santiago/2026_04_05_15_00_IMG_6024.JPG",
-            "photos/Fort-Santiago/2026_04_05_15_10_IMG_6025.JPG",
-            "photos/Fort-Santiago/2026_04_05_15_11_IMG_6028.JPG"
+            "photos/Fort-Santiago/2026_04_05_15_00_IMG_6024.webp",
+            "photos/Fort-Santiago/2026_04_05_15_10_IMG_6025.webp",
+            "photos/Fort-Santiago/2026_04_05_15_11_IMG_6028.webp"
         ]
     },
     {
@@ -80,11 +80,11 @@ const destinations = [
         x: 450,
         y: 180,
         photos: [
-            "photos/rizal-park/DSC_0762.jpg",
-            "photos/rizal-park/DSC_0734.jpg",
-            "photos/rizal-park/DSC_0735.jpg",
-            "photos/rizal-park/DSC_0764.jpg",
-            "photos/rizal-park/DSC_0766.jpg"
+            "photos/rizal-park/DSC_0762.webp",
+            "photos/rizal-park/DSC_0734.webp",
+            "photos/rizal-park/DSC_0735.webp",
+            "photos/rizal-park/DSC_0764.webp",
+            "photos/rizal-park/DSC_0766.webp"
         ]
     },
     {
@@ -103,11 +103,11 @@ const destinations = [
         x: 550,
         y: 100,
         photos: [
-            "photos/Manila-Cathedral/DSC_0782.jpg",
-            "photos/Manila-Cathedral/DSC_0781.jpg",
-            "photos/Manila-Cathedral/DSC_0780.jpg",
-            "photos/Manila-Cathedral/DSC_0790.jpg",
-            "photos/Manila-Cathedral/DSC_0791.jpg"
+            "photos/Manila-Cathedral/DSC_0782.webp",
+            "photos/Manila-Cathedral/DSC_0781.webp",
+            "photos/Manila-Cathedral/DSC_0780.webp",
+            "photos/Manila-Cathedral/DSC_0790.webp",
+            "photos/Manila-Cathedral/DSC_0791.webp"
         ]
     },
     {
@@ -126,7 +126,7 @@ const destinations = [
         x: 700,
         y: 200,
         photos: [
-            "photos/Mall-of-Asia/received_1733790914451115.jpeg"
+            "photos/Mall-of-Asia/received_1733790914451115.webp"
         ]
     },
     {
@@ -145,11 +145,11 @@ const destinations = [
         x: 850,
         y: 150,
         photos: [
-            "photos/hytec-power/DSC_0790 (1).jpg",
-            "photos/hytec-power/DSC_0776 (1).jpg",
-            "photos/hytec-power/received_1701385071231640.jpeg",
-            "photos/hytec-power/received_1685383392646762.jpeg",
-            "photos/hytec-power/DSC_0795 (1).jpg"
+            "photos/hytec-power/DSC_0790 (1).webp",
+            "photos/hytec-power/DSC_0776 (1).webp",
+            "photos/hytec-power/received_1701385071231640.webp",
+            "photos/hytec-power/received_1685383392646762.webp",
+            "photos/hytec-power/DSC_0795 (1).webp"
         ]
     },
     {
@@ -168,9 +168,9 @@ const destinations = [
         x: 980,
         y: 120,
         photos: [
-            "photos/opentext/IMG_20260406_151257.jpg",
-            "photos/opentext/IMG_20260406_134221.jpg",
-            "photos/opentext/IMG_20260406_134737.jpg"
+            "photos/opentext/IMG_20260406_151257.webp",
+            "photos/opentext/IMG_20260406_134221.webp",
+            "photos/opentext/IMG_20260406_134737.webp"
         ]
     },
     {
@@ -189,9 +189,9 @@ const destinations = [
         x: 1100,
         y: 180,
         photos: [
-            "photos/MMDA/IMG_20260407_091536.jpg",
-            "photos/MMDA/received_718102691329161.jpeg",
-            "photos/MMDA/received_2016511099223779.jpeg"
+            "photos/MMDA/IMG_20260407_091536.webp",
+            "photos/MMDA/received_718102691329161.webp",
+            "photos/MMDA/received_2016511099223779.webp"
         ]
     },
     {
@@ -210,7 +210,7 @@ const destinations = [
         x: 1230,
         y: 140,
         photos: [
-            "photos/teleperformance/IMG_20260407_133354.jpg"
+            "photos/teleperformance/IMG_20260407_133354.webp"
         ]
     },
     {
@@ -229,8 +229,8 @@ const destinations = [
         x: 1350,
         y: 100,
         photos: [
-            "photos/top-peg/received_931607662823470.jpeg",
-            "photos/top-peg/received_1318885346722738.jpeg"
+            "photos/top-peg/received_931607662823470.webp",
+            "photos/top-peg/received_1318885346722738.webp"
         ]
     },
     {
@@ -249,8 +249,8 @@ const destinations = [
         x: 1480,
         y: 160,
         photos: [
-            "photos/microsourcing/IMG_20260408_134623.jpg",
-            "photos/microsourcing/2026_04_08_15_18_IMG_6171.JPG"
+            "photos/microsourcing/IMG_20260408_134623.webp",
+            "photos/microsourcing/2026_04_08_15_18_IMG_6171.webp"
         ]
     },
     {
@@ -286,12 +286,12 @@ const destinations = [
         x: 1750,
         y: 180,
         photos: [
-            "photos/people's-park/received_1640835730474110.jpeg",
-            "photos/people's-park/received_1615031093080681.jpeg",
-            "photos/people's-park/IMG_20260409_210558_075.jpg",
-            "photos/people's-park/2026_04_09_08_18_IMG_6242.JPG",
-            "photos/people's-park/2026_04_09_08_44_IMG_6336.JPG",
-            "photos/people's-park/2026_04_09_08_44_IMG_6337.JPG"
+            "photos/people's-park/received_1640835730474110.webp",
+            "photos/people's-park/received_1615031093080681.webp",
+            "photos/people's-park/IMG_20260409_210558_075.webp",
+            "photos/people's-park/2026_04_09_08_18_IMG_6242.webp",
+            "photos/people's-park/2026_04_09_08_44_IMG_6336.webp",
+            "photos/people's-park/2026_04_09_08_44_IMG_6337.webp"
         ]
     },
     {
@@ -310,10 +310,10 @@ const destinations = [
         x: 1850,
         y: 240,
         photos: [
-            "photos/skyranch/IMG_20260409_101141.jpg",
-            "photos/skyranch/received_1490880405710862.jpeg",
-            "photos/skyranch/received_1489043169287918.jpeg",
-            "photos/skyranch/received_1407489818060153.jpeg"
+            "photos/skyranch/IMG_20260409_101141.webp",
+            "photos/skyranch/received_1490880405710862.webp",
+            "photos/skyranch/received_1489043169287918.webp",
+            "photos/skyranch/received_1407489818060153.webp"
         ]
     },
     {
@@ -332,9 +332,9 @@ const destinations = [
         x: 2050,
         y: 100,
         photos: [
-            "photos/baguio/2026_04_10_07_37_IMG_6455.JPG",
-            "photos/baguio/2026_04_10_15_02_IMG_6648.JPG",
-            "photos/baguio/received_4202744726722592.jpeg"
+            "photos/baguio/2026_04_10_07_37_IMG_6455.webp",
+            "photos/baguio/2026_04_10_15_02_IMG_6648.webp",
+            "photos/baguio/received_4202744726722592.webp"
         ]
     },
     {
@@ -353,9 +353,9 @@ const destinations = [
         x: 2220,
         y: 80,
         photos: [
-            "photos/strawberry-farm/received_1310305857651519.jpeg",
-            "photos/strawberry-farm/received_4374798632777022.jpeg",
-            "photos/strawberry-farm/received_1478046957359041.jpeg"
+            "photos/strawberry-farm/received_1310305857651519.webp",
+            "photos/strawberry-farm/received_4374798632777022.webp",
+            "photos/strawberry-farm/received_1478046957359041.webp"
         ]
     },
     {
@@ -374,10 +374,10 @@ const destinations = [
         x: 2390,
         y: 150,
         photos: [
-            "photos/chinese-bell-church/IMG_20260410_073210.jpg",
-            "photos/chinese-bell-church/IMG_20260410_073007.jpg",
-            "photos/chinese-bell-church/received_951986110790184.jpeg",
-            "photos/chinese-bell-church/received_927125340204031.jpeg"
+            "photos/chinese-bell-church/IMG_20260410_073210.webp",
+            "photos/chinese-bell-church/IMG_20260410_073007.webp",
+            "photos/chinese-bell-church/received_951986110790184.webp",
+            "photos/chinese-bell-church/received_927125340204031.webp"
         ]
     },
     {
@@ -393,12 +393,12 @@ const destinations = [
         ],
         comments: "There's a strong sense of discipline and history at the PMA. The grounds are incredibly clean and well-maintained.",
         icon: "🎖️",
-        x: 2560,
+        x: 2500,
         y: 220,
         photos: [
-            "photos/PMA/IMG_20260410_133857.jpg",
-            "photos/PMA/IMG_20260410_133851.jpg",
-            "photos/PMA/IMG_20260410_133327.jpg"
+            "photos/PMA/IMG_20260410_133857.webp",
+            "photos/PMA/IMG_20260410_133851.webp",
+            "photos/PMA/IMG_20260410_133327.webp"
         ]
     },
     {
@@ -414,10 +414,10 @@ const destinations = [
         ],
         comments: "You can't say you've been to Baguio without visiting Mines View. It was crowded, but the view and the shopping for 'pasalubong' were great.",
         icon: "⛰️",
-        x: 2730,
+        x: 2650,
         y: 130,
         photos: [
-            "photos/Mine's-view-park/received_1598313474795538.jpeg"
+            "photos/Mine's-view-park/received_1598313474795538.webp"
         ]
     }
 ];

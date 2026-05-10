@@ -91,8 +91,8 @@ header h1 {
 
 .map-content {
     position: relative;
-    min-width: 2700px; /* Increased from 2500px to give end icons more space */
-    height: 400px; /* Increased from 300px */
+    min-width: 3000px; /* Increased to ensure end icons are not covered */
+    height: 400px; 
     display: flex;
     align-items: center;
 }
