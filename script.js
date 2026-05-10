@@ -210,7 +210,9 @@ const destinations = [
         x: 1230,
         y: 140,
         photos: [
-            "photos/teleperformance/IMG_20260407_133354.webp"
+            "photos/teleperformance/IMG_20260407_133354.webp",
+            "photos/teleperformance/20260407_133546.webp",
+            "photos/teleperformance/20260407_145735.webp"
         ]
     },
     {
@@ -250,7 +252,9 @@ const destinations = [
         y: 160,
         photos: [
             "photos/microsourcing/IMG_20260408_134623.webp",
-            "photos/microsourcing/2026_04_08_15_18_IMG_6171.webp"
+            "photos/microsourcing/2026_04_08_15_18_IMG_6171.webp",
+            "photos/microsourcing/20260408_132228.webp",
+            "photos/microsourcing/20260408_135031.webp"
         ]
     },
     {
@@ -268,7 +272,10 @@ const destinations = [
         icon: "🌋",
         x: 1650,
         y: 220,
-        photos: []
+        photos: [
+            "photos/tagaytay/20260409_081244.webp",
+            "photos/tagaytay/20260409_082011.webp",
+        ]
     },
     {
         id: 14,
